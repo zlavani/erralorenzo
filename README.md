@@ -2,7 +2,7 @@
 
 ### 🧬 Bioinformatics • Clinical Genomics • Data Science • Artificial Intelligence
 
-I am a bioinformatician and PhD candidate working at the intersection of **clinical genomics**, **data science**, and **artificial intelligence**. My work focuses on developing computational methods and reproducible pipelines to improve the diagnosis and interpretation of rare diseases, particularly **Inborn Errors of Immunity (IEI)**.
+I am a bioinformatician and PhD working at the intersection of **clinical genomics**, **data science**, and **artificial intelligence**. My work focuses on developing computational methods and reproducible pipelines to improve the diagnosis and interpretation of rare diseases, particularly **Inborn Errors of Immunity (IEI)**.
 
 I enjoy transforming complex biological and clinical data into intuitive analyses, visualizations and decision-support tools.
 
