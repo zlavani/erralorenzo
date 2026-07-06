@@ -128,7 +128,7 @@ Artificial Intelligence
 
 # 📚 Publications & Scientific Contributions
 
-- Peer-reviewed publications
+- Peer-reviewed publications [Pubmed 🔗](https://pubmed.ncbi.nlm.nih.gov/?term=Erra+Lorenzo)
 - Conference abstracts
 - Posters
 - Oral presentations
