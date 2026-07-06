@@ -96,6 +96,14 @@ Applications of Large Language Models to biomedical research.
 🚧 Some projects currently under development
 
 ---
+# 📚 Publications & Scientific Contributions
+
+- Peer-reviewed publications [Pubmed 🔗](https://pubmed.ncbi.nlm.nih.gov/?term=Erra+Lorenzo)
+- Conference abstracts
+- Posters
+- Oral presentations
+- Open-source bioinformatics tools
+---
 
 # 📈 Research Workflow
 
@@ -123,16 +131,6 @@ Visualization
       ▼
 Artificial Intelligence
 ```
-
----
-
-# 📚 Publications & Scientific Contributions
-
-- Peer-reviewed publications [Pubmed 🔗](https://pubmed.ncbi.nlm.nih.gov/?term=Erra+Lorenzo)
-- Conference abstracts
-- Posters
-- Oral presentations
-- Open-source bioinformatics tools
 ---
 
 # 🌱 Currently Learning
