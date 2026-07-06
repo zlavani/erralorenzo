@@ -19,8 +19,6 @@ I enjoy transforming complex biological and clinical data into intuitive analyse
 - Data Visualization
 - Machine Learning
 - Artificial Intelligence in Healthcare
-- Retrieval-Augmented Generation (RAG)
-
 ---
 
 # 🚀 Featured Projects
@@ -61,7 +59,7 @@ Automation and reproducible workflows.
 - CNV analysis
 - Clinical reporting
 - Bash & Python automation
-
+- Example: [GitLink 🔗](https://github.com/fginob1/MotSASi2.0)
 ---
 
 ## 🤖 Artificial Intelligence
@@ -71,7 +69,6 @@ Applications of Large Language Models to biomedical research.
 - Clinical RAG systems
 - Local LLM assistants
 - AI-assisted variant interpretation
-- 
 ---
 
 
