@@ -76,7 +76,9 @@ Applications of Large Language Models to biomedical research.
 
 ### Programming
 
-- Python, R, Bash
+- Python,
+- R [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
+- Bash
 
 ### Bioinformatics
 
