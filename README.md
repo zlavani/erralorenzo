@@ -12,7 +12,7 @@ I enjoy transforming complex biological and clinical data into intuitive analyse
 
 - Clinical Genomics
 - Rare Diseases
-- Inborn Errors of Immunity (IEI) --> [GitLink 🔗](https://egcinmuno.github.io/IUIS-EGCinmuno/)
+- Inborn Errors of Immunity (IEI) --> [IEI Table 🔗](https://egcinmuno.github.io/IUIS-EGCinmuno/)
 - Variant Interpretation (SNV, CNV & SV)
 - Phenotype-driven Diagnosis
 - Bioinformatics Pipelines
