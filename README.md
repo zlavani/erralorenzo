@@ -62,7 +62,7 @@ Automation and reproducible workflows.
 - CNV analysis
 - Clinical reporting
 - Bash & Python automation
-- Example: [GitLink 🔗](https://github.com/fginob1/MotSASi2.0)
+- Example: [Motsasi2.0 🔗](https://github.com/fginob1/MotSASi2.0)
 ---
 
 ## 🤖 Artificial Intelligence
