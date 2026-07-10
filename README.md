@@ -45,8 +45,10 @@ Projects involving statistics, visualization and biomedical data exploration.
 - Cohort visualization
 - Clinical data mining
 - Publication-quality figures
-- [Example1🔗](https://github.com/zlavani/ICB-FinalWork)
-- [Example2🔗](https://github.com/zlavani/Omics-course)
+- [Gas emition🔗](https://github.com/zlavani/ICB-FinalWork)
+- [Omics🔗](https://github.com/zlavani/Omics-course)
+- [Mini-Portfolio 🔗](https://zlavani.github.io/portfoliozlavani/index.html)
+
 ---
 
 ## ⚙ Bioinformatics Pipelines
@@ -88,9 +90,6 @@ Applications of Large Language Models to biomedical research.
 ### Data Science
 
 - Pandas, NumPy, Matplotlib, Plotly, Scikit-learn
-
-- Example [Portfolio 🔗](https://zlavani.github.io/portfoliozlavani/index.html)
-
 ---
 
 # 🧩 Current Projects
