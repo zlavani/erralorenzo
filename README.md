@@ -81,6 +81,7 @@ Applications of Large Language Models to biomedical research.
 
 - Python [Course🔗](https://github.com/zlavani/ICB)
 - R [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
+-   [Course2🔗](https://github.com/zlavani/Data-science-Farr-course)
 - Bash
 
 ### Bioinformatics
