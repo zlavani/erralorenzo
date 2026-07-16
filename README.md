@@ -45,16 +45,14 @@ Projects involving statistics, visualization and biomedical data exploration.
 - Cohort visualization
 - Clinical data mining
 - Publication-quality figures
+- [Mini-Portfolio 🔗](https://zlavani.github.io/portfoliozlavani/index.html)
 - [Gas emition🔗](https://github.com/zlavani/ICB-FinalWork)
 - [Omics🔗](https://github.com/zlavani/Omics-course)
-- [Mini-Portfolio 🔗](https://zlavani.github.io/portfoliozlavani/index.html)
-
 ---
 
 ## ⚙ Bioinformatics Pipelines
 
-Automation and reproducible workflows.
-
+Automation and reproducible workflows. (Upon request)
 - FASTQ quality control
 - Alignment
 - Variant Calling
@@ -79,9 +77,10 @@ Applications of Large Language Models to biomedical research.
 
 ### Programming
 
-- Python [Course🔗](https://github.com/zlavani/ICB)
-- R [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
--   [Course2🔗](https://github.com/zlavani/Data-science-Farr-course)
+- Python ICB [Course🔗](https://github.com/zlavani/ICB)
+- Python FavL [Course🔗]([https://github.com/zlavani/ICB](https://github.com/zlavani/Python-IA-Fav3))
+- R SueCD [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
+- R FarCF [Course2🔗](https://github.com/zlavani/Data-science-Farr-course)
 - Bash
 
 ### Bioinformatics
@@ -105,34 +104,6 @@ Applications of Large Language Models to biomedical research.
 - Posters
 - Oral presentations
 - Open-source bioinformatics tools
----
-
-# 📈 Research Workflow
-
-```text
-Clinical Data
-      │
-      ▼
-NGS Processing
-      │
-      ▼
-Variant Calling
-      │
-      ▼
-Annotation
-      │
-      ▼
-Prioritization
-      │
-      ▼
-Clinical Interpretation
-      │
-      ▼
-Visualization
-      │
-      ▼
-Artificial Intelligence
-```
 ---
 
 # 🌱 Currently Learning
