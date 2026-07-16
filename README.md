@@ -78,7 +78,7 @@ Applications of Large Language Models to biomedical research.
 ### Programming
 
 - Python ICB [Course🔗](https://github.com/zlavani/ICB)
-- Python FavL [Course🔗]([https://github.com/zlavani/ICB](https://github.com/zlavani/Python-IA-Fav3))
+- Python FavL [Course🔗](https://github.com/zlavani/Python-IA-Fav3)
 - R SueCD [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
 - R FarCF [Course2🔗](https://github.com/zlavani/Data-science-Farr-course)
 - Bash
